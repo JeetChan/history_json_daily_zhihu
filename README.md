@@ -10,6 +10,8 @@ JSON 格式知乎日报历史数据。自 2013-05-19 起收集。
 
 JSON 文件以`%Y%m%d`格式命名，如`20130519.json`。并存放在对应的（年/月）目录。如`20130519.json`就存放在`data/2013/05/`目录中。为方便传输，所有 JSON 文件已进行空格压缩，以 `utf-8`格式编码保存。
 
-所收集数据可作为各种编程语言**文件/JSON**操作学习材料。也可以作为编写**知乎日报 web 版**的本地数据。如: <http://www.mfzxs.com/news_at_zhihu>
+所收集数据可作为各种编程语言**文件/JSON**操作学习材料。也可以作为编写**知乎日报 web 版**的本地数据。如:  
+
+<http://www.mfzxs.com/news_at_zhihu>
 
 ![http://www.mfzxs.com/news_at_zhihu](https://s2.ax1x.com/2020/03/03/345fOI.png)
