@@ -14,4 +14,4 @@ JSON 文件以`%Y%m%d`格式命名，如`20130519.json`。并存放在对应的�
 
 <http://www.ebox001.com/news_at_zhihu>
 
-![http://www.mfzxs.com/news_at_zhihu](https://s2.ax1x.com/2020/03/03/345fOI.png)
+![知乎日报历史数据应用](https://s2.ax1x.com/2020/03/03/345fOI.png)
